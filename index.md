@@ -1,3 +1,3 @@
 # Welcome to the blog!
 
-[About Me](About-me.md)
+[About Me](about-me.md)
